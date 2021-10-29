@@ -1,0 +1,333 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 889px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.25rem;
+  font-weight: 400;
+  margin: 60px auto 0 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 91px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 684px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 30px 29px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 200px;
+  height: 200px;
+  background-image: url("images/GettyImages-463992345-e2a7a28.jpg");
+  background-position: 50% 50%;
+  margin: 0 300px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 400;
+  margin: 19px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.125rem;
+  line-height: 2;
+  margin: 13px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 400;
+  background-image: none;
+  font-size: 1rem;
+  margin: 37px auto 0 0;
+  padding: 14px 38px 15px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 684px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 23px 29px;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.25rem;
+  line-height: 2;
+  font-weight: 600;
+  margin: 134px 37px 0;
+}
+
+.u-section-1 .u-btn-2 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 400;
+  background-image: none;
+  font-size: 1rem;
+  margin: 37px auto 0 37px;
+  padding: 14px 38px 15px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 726px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 564px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: 200px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 564px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1091px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    width: auto;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 145px;
+    height: 145px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-text-4 {
+    font-size: 1.125rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 517px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 112px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 260px;
+    height: 260px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 160px;
+    height: 160px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}.u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 829px;
+}
+
+.u-section-2 .u-shape-1 {
+  width: 637px;
+  height: 607px;
+  margin: 96px -47px 0 auto;
+}
+
+.u-section-2 .u-image-1 {
+  height: 417px;
+  width: 417px;
+  background-image: url("images/Adolf_Hitler_-_Wien_Oper.jpg");
+  background-position: 50% 50%;
+  margin: -553px 27px 0 auto;
+}
+
+.u-section-2 .u-group-1 {
+  width: 606px;
+  min-height: 703px;
+  height: auto;
+  margin: -567px auto 60px -24px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 40px 17px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 400;
+  margin: 0 auto 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 1.125rem;
+  font-weight: 400;
+  margin: 27px 0 0;
+}
+
+.u-section-2 .u-btn-1 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 400;
+  background-image: none;
+  font-size: 1rem;
+  margin: 13px auto 0 0;
+  padding: 14px 38px 15px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-shape-1 {
+    width: 645px;
+    margin-right: 75px;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 457px;
+    width: 457px;
+    margin-right: 163px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 631px;
+    margin-left: 155px;
+    height: auto;
+  }
+
+  .u-section-2 .u-btn-1 {
+    border-style: none;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-shape-1 {
+    width: 557px;
+    height: 525px;
+    margin-right: 185px;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 416px;
+    width: 416px;
+    margin-top: -470px;
+    margin-right: 252px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 360px;
+    margin-top: -294px;
+    margin-bottom: 54px;
+    margin-left: 210px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-shape-1 {
+    height: 481px;
+    width: 513px;
+    margin-right: 300px;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 404px;
+    width: 404px;
+    margin-top: -553px;
+    margin-right: 354px;
+  }
+
+  .u-section-2 .u-group-1 {
+    margin-top: -567px;
+    margin-bottom: 60px;
+    margin-left: 300px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 752px;
+  }
+
+  .u-section-2 .u-shape-1 {
+    height: 329px;
+    width: 329px;
+    margin-right: 400px;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 279px;
+    width: 279px;
+    margin-right: 400px;
+  }
+
+  .u-section-2 .u-group-1 {
+    margin-top: -490px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
